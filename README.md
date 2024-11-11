@@ -13,12 +13,10 @@ This is the ```KAFKA-PYTHON BASICS``` script. This service is made using python 
  - Please refer to - https://docs.docker.com/engine/install/ to install docker
  ```
 
-
 * Clone the repository 
  ```
  git clone https://github.com/amulyasharma27797/kafka-python.git
  ```
-
 
 * Enter the main directory
  ```
@@ -33,4 +31,11 @@ This is the ```KAFKA-PYTHON BASICS``` script. This service is made using python 
 * To stop the project normally
  ```
  docker-compose down
+ ``` 
+
+* Running Kafka via UI
+ ```
+ - Open localhost:8080
+ - Add a topic say "registered_user", in this case with single partition
+ - Create a consumer group say "consumer-group-a", in this case with single parition
  ``` 
