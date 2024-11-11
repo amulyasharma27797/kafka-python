@@ -1,5 +1,5 @@
-# KAFA-PYTHON BASICS SCRIPT
-This is the ```KAFA-PYTHON BASICS``` script. This service is made using python and kakfa and is used to have a basic understading of how python & kafka can work together via docker.
+# KAFKA-PYTHON BASICS SCRIPT
+This is the ```KAFKA-PYTHON BASICS``` script. This service is made using python and kakfa and is used to have a basic understading of how python & kafka can work together via docker.
 
 ## Getting Started
  **Steps to get started**
